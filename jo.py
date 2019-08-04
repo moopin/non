@@ -65,7 +65,7 @@ kcn = {"autojoin": False,"Members":5,}
 sets = {
     "l":True, 
       "c":True, 
-      "cm":"AUTO LIKE FOR : ★ʄທയஆടஷະ★",  
+      "cm":"AUTO LIKE FOR : ★🇹🇭☠👻❁ໂऩ❁👻☠🇹🇭★",  
     "winvite": False,
     "wblacklist": False,
     "tagsticker": False,
